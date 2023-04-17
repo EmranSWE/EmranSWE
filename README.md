@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/emran2k18/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
