@@ -1,3 +1,15 @@
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+</a>
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Md Emran</h1>
 <h3 >Software engineer graduate with energetic full-stack web development knowledge. Team player with a will-do attitude, excellent communication, and web application design skills with a strong user focus. Having extensive experience working with JavaScript. I would jump at any opportunity to continue growing my skillset in the JS field at exodus integrity Service. Professional in web designer and good skill in web development. Self-motivated and creative web designer. Ability to work in the creative department of different local or multinational IT company and grow rapidly with increasing responsibilities.</h3>
 
