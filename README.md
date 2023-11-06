@@ -8,12 +8,11 @@ With a keen eye for design, I incorporate TailwindCSS and AntDesign to create ae
 
 🔍 Currently Seeking: Exciting roles that will leverage my expertise in Full Stack development and my passion for APIs and database management systems. </p>
 
+I love to read tech books and explore new technologies as they are released.
 
-I love to read books and listen to music.
-
-- 🌱 I’m currently learning many things, and I believe that everyday is a learning opportunity.
+- 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about React.js, Next.js, Typescript, JavaScript, WordPress, MERN, PERN, and API development.
+- 💬 Ask me about React.js, Next.js, Typescript, JavaScript, WordPress, MERN, PERN, and API development and data science tools Numpy, Pandas, and Matplotlib.
 - 📫 I am just one mail away - [mdemran.swe@gmail dot com]
 - 😄 Pronouns: He, Mr. Learner 😄
 - :partying_face: Fun fact: I love to travel on my motorcycle with friends.
@@ -25,9 +24,7 @@ I love to read books and listen to music.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://emran-portfolio.web.app/](https://emran-portfolio.web.app/)
-
-- 💬 Ask me about **reactjs, nodejs, numpy, pandas**
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.emranswe.me/)
 
 - 📫 How to reach me **mdemran.swe@gmail.com**
 
