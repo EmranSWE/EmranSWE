@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Emran</h1>
 
-✨ Full Stack Developer | React.js & Node.js Enthusiast | Open to Work ✨
+<h3 align="center">✨ Full Stack Developer | React.js & Node.js Enthusiast | Open to Work ✨ </h3>
 
-I’m a passionate Full Stack Developer with a deep affection for crafting seamless user experiences and robust backend solutions. My toolkit includes modern and powerful technologies such as React.js, Next.js, Node.js, and Express.js, complemented by my expertise in MongoDB, Mongoose ODM, and Prisma ORM. I excel in architecting APIs and have a solid grounding in both relational databases and NoSQL paradigms.
+<p> I’m a passionate Full Stack Developer with a deep affection for crafting seamless user experiences and robust backend solutions. My toolkit includes modern and powerful technologies such as React.js, Next.js, Node.js, and Express.js, complemented by my expertise in MongoDB, Mongoose ODM, and Prisma ORM. I excel in architecting APIs and have a solid grounding in both relational databases and NoSQL paradigms.
 
 With a keen eye for design, I incorporate TailwindCSS and AntDesign to create aesthetically pleasing interfaces, and I’m also well-versed in the practicality of WordPress for rapid site deployment. I'm currently on the lookout for new challenges and opportunities where I can bring my love for all things Full Stack to the table and contribute to a forward-thinking team. Let's build the future together!
 
-🔍 Currently Seeking: Exciting roles that will leverage my expertise in Full Stack development and my passion for APIs and database management systems.
+🔍 Currently Seeking: Exciting roles that will leverage my expertise in Full Stack development and my passion for APIs and database management systems. </p>
 
 
 I love to read books and listen to music.
