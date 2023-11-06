@@ -10,6 +10,8 @@ With a keen eye for design, I incorporate TailwindCSS and AntDesign to create ae
 
 I love to read tech books and explore new technologies as they are released.
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.emranswe.me/)
+- 📫 How to reach me **mdemran.swe@gmail.com**
 - 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about React.js, Next.js, Typescript, JavaScript, WordPress, MERN, PERN, and API development and data science tools Numpy, Pandas, and Matplotlib.
@@ -23,12 +25,6 @@ I love to read tech books and explore new technologies as they are released.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emranswe" alt="emranswe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.emranswe.me/)
-
-- 📫 How to reach me **mdemran.swe@gmail.com**
-
-
 
 ## :chart_with_upwards_trend: Current Stats
 
