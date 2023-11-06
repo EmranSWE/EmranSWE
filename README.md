@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Md Emran</h1>
-<h3 >Software engineer graduate with energetic full-stack web development knowledge. Team player with a will-do attitude, excellent communication, and web application design skills with a strong user focus. Having extensive experience working with JavaScript. I would jump at any opportunity to continue growing my skillset in the JS field at exodus integrity Service. Professional in web designer and good skill in web development. Self-motivated and creative web designer. Ability to work in the creative department of different local or multinational IT company and grow rapidly with increasing responsibilities.</h3>
+<h3>Software engineer graduate with energetic full-stack web development knowledge. Team player with a will-do attitude, excellent communication, and web application design skills with a strong user focus. Having extensive experience working with JavaScript. I would jump at any opportunity to continue growing my skillset in the JS field at exodus integrity Service. Professional in web design and good skills in web development. Self-motivated and creative web designer. Ability to work in the creative department of different local or multinational IT company and proliferate with increasing responsibilities.</h3>
+
+I am a Full Stack Developer with a huge love for React.js, NextJs, Node.js, Express.js,MongoDB,Mongoose ODM, Prisma ORM, Everything API, RDBMS, WordPress, TailwindCSS and AntDesign,Currently, **I'm open to work and employment opportunities**.
+
+
+I love to read books and listen to music.
+
+- 🌱 I’m currently learning many things, and I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 💬 Ask me about React.js, Next.js, Typescript, JavaScript, WordPress, MERN, PERN, and API development.
+- 📫 I am just one mail away - [mdemran.swe@gmail dot com]
+- 😄 Pronouns: He, Mr. Learner 😄
+- :partying_face: Fun fact: I love to travel on my motorcycle with friends.
+- :wrench: Tools - VSCode, Postman, Data Studio, BigQuery Engine, Markdown Editors, PyCharm, Google Colab, Docker and Linux (Ubuntu OS).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emranswe&label=Profile%20views&color=0e75b6&style=flat" alt="emranswe" /> </p>
 
