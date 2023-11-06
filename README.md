@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Emran</h1>
-<h3>Software engineer graduate with energetic full-stack web development knowledge. Team player with a will-do attitude, excellent communication, and web application design skills with a strong user focus. Having extensive experience working with JavaScript. I would jump at any opportunity to continue growing my skillset in the JS field at exodus integrity Service. Professional in web design and good skills in web development. Self-motivated and creative web designer. Ability to work in the creative department of different local or multinational IT company and proliferate with increasing responsibilities.</h3>
 
-I am a Full Stack Developer with a huge love for React.js, NextJs, Node.js, Express.js,MongoDB,Mongoose ODM, Prisma ORM, Everything API, RDBMS, WordPress, TailwindCSS and AntDesign,Currently, **I'm open to work and employment opportunities**.
+✨ Full Stack Developer | React.js & Node.js Enthusiast | Open to Work ✨
+
+I’m a passionate Full Stack Developer with a deep affection for crafting seamless user experiences and robust backend solutions. My toolkit includes modern and powerful technologies such as React.js, Next.js, Node.js, and Express.js, complemented by my expertise in MongoDB, Mongoose ODM, and Prisma ORM. I excel in architecting APIs and have a solid grounding in both relational databases and NoSQL paradigms.
+
+With a keen eye for design, I incorporate TailwindCSS and AntDesign to create aesthetically pleasing interfaces, and I’m also well-versed in the practicality of WordPress for rapid site deployment. I'm currently on the lookout for new challenges and opportunities where I can bring my love for all things Full Stack to the table and contribute to a forward-thinking team. Let's build the future together!
+
+🔍 Currently Seeking: Exciting roles that will leverage my expertise in Full Stack development and my passion for APIs and database management systems.
 
 
 I love to read books and listen to music.
