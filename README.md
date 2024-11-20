@@ -11,7 +11,7 @@ With a keen eye for design, I incorporate TailwindCSS and AntDesign to create ae
 I love to read tech books and explore new technologies as they are released.
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.emranswe.me/)
-- 📫 I am just one mail away **mdemran.swe@gmail.com**
+- 📫 I am just one mail away from you **mdemran.swe@gmail.com**
 - 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about React.js, Next.js, Typescript, JavaScript, WordPress, MERN, PERN, and API development and data science tools Numpy, Pandas, and Matplotlib.
